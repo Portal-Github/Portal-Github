@@ -1,2 +1,2 @@
-# Portal-Github
+# portal.github.com
 Special:Log-Github
